@@ -1,0 +1,29 @@
+.left{
+    display: none;
+}
+
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    color: #ffffff;
+    font-size: 250%;
+}
+
+h2{
+    color: #0000bf;
+    text-transform: uppercase;
+    font-size: 200%;
+}
+
+header{
+    background-color: #959595;
+}
+
+a{
+    background-color: #b9b6b6;
+    color: black;
+}
+
+.right{
+    background-color: #777;
+}
